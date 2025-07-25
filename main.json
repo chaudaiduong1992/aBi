@@ -5,5 +5,7 @@
   "speed": [10,15],
   "mousemain": [2,4],
   "mouseswipe": [9,12],
-  "timeads": [180,200]
+  "timeads": [180,200],
+  "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/ip",
+  "webs":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/wb"
 }
