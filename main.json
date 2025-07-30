@@ -2,10 +2,8 @@
   "pass":"aBiTrue",
   "tabs": 6,
   "next": [2,3],
-  "speed": [5,12],
-  "mousemain": [2,4],
-  "mouseswipe": [9,12],
-  "timeads": [180,200],
+  "speed": [5,10],
+  "timeads": [140,180]
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/ip",
   "webs":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/wb"
 }
