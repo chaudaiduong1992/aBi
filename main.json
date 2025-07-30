@@ -1,9 +1,9 @@
 {
   "pass":"aBiTrue",
-  "tabs": 6,
-  "next": [2,3],
-  "speed": [5,10],
-  "timeads": [120,180]
+  "numtabs": 6,
+  "numpost": [2,3],
+  "mousescroll": [5,10],
+  "timeinads": [120,180]
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/ip",
   "webs":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/wb"
 }
