@@ -1,7 +1,7 @@
 {
   "pass":"aBiTrue",
   "numtabs": 6,
-  "numpostlead": [0,2],
+  "numpostlead": [1,2],
   "numpostauto": [1,4],
   "mousescroll": [2,5],
   "timeinads": [120,180],
