@@ -3,7 +3,7 @@
   "numtabs": 6,
   "numpostlead": [1,2],
   "numpostauto": [1,4],
-  "mousescroll": [5,10],
+  "mousescroll": [8,12],
   "timeinads": [220,250],
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/aBi_ip",
   "webs":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/aBi_wb"
